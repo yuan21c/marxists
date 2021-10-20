@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+tmp/
+xhtml/
 *.xhtml
 __pycache__/
 *.py[cod]
